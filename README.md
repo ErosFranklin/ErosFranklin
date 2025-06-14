@@ -42,7 +42,7 @@
 ## 📎 Links úteis
 
 - 💼 [Meu LinkedIn](linkedin.com/in/eros-franklin-soares-felix-3429b033a)
-- 🌐 [Meu portfólio]([https://seusite.com](https://portifolioo-kappa.vercel.app))
+- 🌐 [Meu portfólio](https://portifolioo-kappa.vercel.app)
 - 📁 [Meus repositórios públicos](https://github.com/ErosFranklin?tab=repositories)
 
 ---
