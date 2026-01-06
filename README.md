@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Eros Franklin!
+# 👋 Olá, eu sou Eros Franklin!
 
 🎓 Estudante de Ciência da Computação e Formando em Técnico de Informática
 💻 Desenvolvedor focado na área front-end, mas com habilidades full stack
