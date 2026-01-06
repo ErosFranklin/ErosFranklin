@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Eros Franklin!
 
-🎓 Estudante de Ciência da Computação
+🎓 Estudante de Ciência da Computação e Formando em Técnico de Informática
 💻 Desenvolvedor focado na área front-end, mas com habilidades full stack
 🚀 Apaixonado por tecnologia, aprendizado contínuo e construção de soluções criativas.  
 
@@ -8,8 +8,8 @@
 
 ## 🧠 Sobre mim
 
-- 🔭 Atualmente trabalhando em: Screenning Programming, StaffCom e Life Fit Boosted
-- 🌱 Estudando: React.js, Docker, Next.js...
+- 🔭 Atualmente trabalhando em Projetos pessoais
+- 🌱 Estudando: React.js, Next.js,UI/UX...
 - 👯 Buscando colaborar em: projetos open source ou freelance
 - 📫 Contato: erosfranklinfelix2016@email.com | [LinkedIn](linkedin.com/in/eros-franklin-soares-felix-3429b033a)
 
@@ -21,6 +21,8 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-61DAFB?style=flat&logo=next.js&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-61DAFB?style=flat&logo=typescript&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=fff)
